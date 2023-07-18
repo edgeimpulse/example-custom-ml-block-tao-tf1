@@ -36,8 +36,8 @@ You run this pipeline via Docker if you have an NVIDIA GPU. This encapsulates al
     Edge Impulse Blocks v1.19.3
     ? Choose a type of block: Machine learning block
     ? Choose an option: Create a new block
-    ? Enter the name of your block: TAO FAN example
-    ? Enter the description of your block: TAOv5 example that trains a Fully Attentional Network
+    ? Enter the name of your block: TAO MobileNetV1 example
+    ? Enter the description of your block: TAOv5 example that trains a MobileNetV1 network
     ? What type of data does this model operate on? Image classification
     ? How is your input scaled? PyTorch (scale to 0..1, then normalize using ImageNet mean/std)
     ? Where can your model train? Only on GPU (GPUs are only available for enterprise projects)
