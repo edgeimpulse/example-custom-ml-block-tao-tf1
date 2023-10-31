@@ -1,4 +1,4 @@
-FROM nvcr.io/ea-tlt/tao_ea/tao-toolkit:5.0.0-ea-tf1.15.5
+FROM nvcr.io/nvidia/tao/tao-toolkit:5.0.0-tf1.15.5
 
 WORKDIR /app
 
